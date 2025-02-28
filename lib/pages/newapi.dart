@@ -121,7 +121,7 @@ class _NewapiState extends State<Newapi> {
                       ],
                     ),Container(
                       height: size.height * 0.12,
-                      width: size.width * 0.08,)
+                      width: size.width * 0.08)
                   ],
                 ),
               );
